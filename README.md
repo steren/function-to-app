@@ -1,6 +1,8 @@
 # function-to-app
 
-Transform a function into a Node.js application
+Transform a function into a Node.js application.
+
+*This is an experiment*
 
 ## How to use
 
