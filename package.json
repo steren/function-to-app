@@ -1,0 +1,15 @@
+{
+  "name": "function-to-app",
+  "description": "Transform a function into a Node.js application",
+	"version": "0.0.1",
+	"author": "steren@google.com",
+	"license": "Apache-2.0",
+	"bin": {
+		"func": "server.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.18.3",
+		"command-line-args": "^5.0.2",
+		"express": "^4.16.3"
+	}
+}
