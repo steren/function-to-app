@@ -2,7 +2,9 @@
 
 Transform a function into a Node.js application.
 
-*This is an experiment*
+**This was an experiment**
+
+You should use the officially supported [`@google-cloud/functions-framework`](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) module instead.
 
 ## How to use
 
